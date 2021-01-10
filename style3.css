@@ -1,0 +1,32 @@
+#myDIV {
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+
+
+    top: 0%;
+    margin-top: 30px;
+    font-size: 1.2rem;
+    background-size: cover;
+    color: lightblue;
+  }
+  body{
+
+
+    background-image: url(img/456.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #jl{
+
+
+
+    font-size: 64px;
+    font-family: cursive;
+  }
+  .input1{
+    color: darkorchid;
+    text-align: center;
+    margin: .4rem 0;
+    margin-left: 100px;
+}

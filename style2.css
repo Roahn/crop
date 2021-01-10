@@ -1,0 +1,100 @@
+body{
+    background-color:#393b44;
+    margin: 0%;
+}
+
+
+image{
+    height: 300px;
+}
+#myDIV {
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+    background-color: lightblue;
+    display: none ;
+    background-image: url("img/detect.jpg");
+    background-repeat: no-repeat;
+    font-size: 1.2rem;
+    background-size: cover;
+  }
+.firstdiv{
+    background-image: url("img/plant disease.jpg");
+    width: 100%;
+    height: 500px;
+}
+.firstdiv h1{
+    font-size: 5rem;
+    text-align: center;
+    padding-top: 100px;
+    font-family: cursive;
+    color:#b9fffc;
+    
+}
+.seconddiv{
+background-image: url("img/plant7.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.seconddiv h2{
+    font-size: 3rem;
+    color: darkkhaki;
+
+}
+.seconddiv p{
+    font-size: 2rem;
+    color: darkorange;
+}
+.first{
+    width: 60%;
+    margin: auto;
+    padding-top: 20px;
+
+}
+.images1{
+    border-radius: 118px;
+    height: 250px;
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+
+}
+.image2{
+    border-radius: 118px;
+    height: 250px;
+    width: 30%;
+    float: right;
+    }
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 200px;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+.input1{
+    color: darkorchid;
+    text-align: center;
+    margin: .4rem 0;
+    margin-left: 100px;
+}
